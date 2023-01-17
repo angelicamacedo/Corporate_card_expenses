@@ -1,4 +1,4 @@
-# Corporate_card_expenses -
+# Corporate_card_expenses
 **This project aims to analyze the expenses of the former president Jair Bolsonaro's corporate card, disclosed by the General Secretariat of the Presidency in January 2023,  with the sole objective of training my skills with MySQL Wokbench** 
 
 # About Dataset #
@@ -29,6 +29,7 @@ The spreadsheet made available contained data on the use of the corporate card s
 **2. Column with value information**
 
 - Removing the "R$" symbol from the VALOR column, so that calculations can be done later
+
 ![image](https://user-images.githubusercontent.com/120726730/212954891-7c6768e2-60e1-4127-896a-8da47df5248f.png)
 
 
