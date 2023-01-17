@@ -1,5 +1,5 @@
 # Corporate_card_expenses
-**This project aims to analyze the expenses of the former president Jair Bolsonaro's corporate card, disclosed by the General Secretariat of the Presidency in January 2023,  with the sole objective of training my skills with MySQL Wokbench** 
+**This project aims to analyze the expenses of the former president Jair Bolsonaro's corporate card, disclosed by the General Secretariat of the Presidency in January 2023,  with the sole objective of training my skills with MySQL Workbench** 
 
 # About Dataset #
 The data were made available by the General Secretariat of the Presidency based on a request made by [Fiquem Sabendo](https://fiquemsabendo.com.br/gastos-publicos/liberamos-o-acesso-aos-gastos-do-cartao-corporativo-de-bolsonaro-e-de-outros-ex-presidentes/). Here is the raw data [https://docs.google.com/spreadsheets/d/1LbIVxdyGCmxHBAnR-yktvBiYUMIlQB14RkGwrgP7R34/edit#gid=1524870995](url)
