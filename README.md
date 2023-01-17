@@ -79,7 +79,7 @@ The spreadsheet made available contained data on the use of the corporate card s
 
 **6.Amounts spent per year**
 
-![image](https://user-images.githubusercontent.com/120726730/212962232-e2d08d72-9f22-4e41-b80e-34af831d5552.png)
+![image](https://user-images.githubusercontent.com/120726730/212974046-22facb41-4b87-43ce-b41f-db820b37e9b1.png)
 
 **OUTCOME**
 
