@@ -7,11 +7,17 @@ The data were made available by the General Secretariat of the Presidency based 
 **Detail**
 
 **DATA_PGTO** - Date of payments made with the corporate card
+
 **CPF_SERVIDOR** - Individual registration on the public official who made the purchase
+
 **CPF_CNPJ_FORNECEDOR** - National Registry Number of the Legal Entity that made the sale
+
 **FORNECEDOR** - Service provider or trade name
+
 **VALOR** - Amount spent
+
 **SUBELEMENTO_DE_DESPESA** -  Shopping category
+
 
 # Data cleaning and processing #
 
